@@ -1,0 +1,6 @@
+PC Information:
+Machine: AMD64
+Version: 10.0.19045
+Platform: Windows-10-10.0.19045-SP0
+System: Windows
+Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel

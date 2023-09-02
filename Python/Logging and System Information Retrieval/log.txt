@@ -1,0 +1,24 @@
+Name: LOVETH ADEH
+Student ID: 1153017
+Current Date: 2023-09-02 17:37:04
+
+Data from text file:
+Name: LOVETH LUMUMBA ADEH
+Student ID: 1153017
+
+1. Explain the use of Sockets:
+Sockets are a communication mechanism that allows processes (programs) to communicate over a network. They facilitate the exchange of data between a client and a server using network protocols such as TCP or UDP.
+
+2. Why do we need a Client and Server?
+A client-server architecture allows for distributed computing, where different processes run on different machines. Clients request services or resources, while servers provide those services/resources. This architecture promotes scalability, better resource management, and improved security.
+
+3. Why are IP Addresses important?
+IP addresses uniquely identify devices on a network. They enable data routing and delivery to the correct destination. In a client-server setup, servers use IP addresses to listen for incoming client requests, and clients use them to specify where to send requests.
+
+4. How are errors handled?
+Errors in socket communication can be handled through exception handling. Python's socket library raises exceptions for various error conditions, like a connection timeout or a refused connection. These exceptions can be caught and appropriate error messages can be displayed.
+
+5. Why is the SERVER always listening?
+The server needs to be always listening for incoming client requests because it's the server's responsibility to respond to client requests promptly. By keeping the server listening, it can accept incoming connections and process client requests as they arrive.
+OS Information: Windows 10
+Python Version: 3.11.3

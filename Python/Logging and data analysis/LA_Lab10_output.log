@@ -1,0 +1,4 @@
+INFO:root:6079 Lab 10 – Logging Information
+INFO:root:Due July 30, 2023 11:59 pm
+ERROR:root:PC Info Data Error: division by zero
+INFO:root:Logging completed successfully.
