@@ -1,2 +1,2 @@
 # Cybersecurity Labs
- Welcome to my partial home lab where I show you some of what Ive done throught out the cyber ourney
+ Welcome to my partial home lab where I take you on my cyber journey
