@@ -1,0 +1,6 @@
+a./  Isaas.exe operates at a system integrity level in the domain administrator account
+b./ The integrity level associated with the user-limited account is at medium.
+c./  The description for the domain admins group are Designated administrators of the domain and Administrator (adeh.ca/Users) is the only member.
+d./ The backup users output is different because its part another group called the backup operator while the normal user is a user of the domain.
+
+E./ Because having two domains would cause disagreements/compatibility issues in the system
