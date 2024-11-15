@@ -1,0 +1,9 @@
+Key Features:
+Log Parsing: Extracts IP addresses from logs using regex.
+Threat Intelligence API: Checks IPs against AbuseIPDB for reputation data.
+CSV Reporting: Generates a comprehensive CSV report with IP details.
+Scalability: Modular functions for reusability in larger workflows.
+
+
+## We can also Virus Total by replacing IPDB's Url and API key with Virus Total's
+#    Highlights SOC-relevant tasks like log analysis and threat intelligence.
